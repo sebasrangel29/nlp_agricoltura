@@ -1,3 +1,2 @@
 # nlp_agricoltura
-Textual Analysis in R:Patrons of Agricultural News in  Italy in First Half of 2024
-Datos y código en R de "Coyuntura de la agricultura en Italia: Metodología para un análisis textual en medios digitales".
+Estevez, L. F. A., & Quiñonez, H. S. R. (2026). Coyuntura de la agricultura en italia: Metodología para un análisis textual en medios digitales. Revista agroalimentaria, 32(62), 67-83.
